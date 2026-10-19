@@ -6,4 +6,4 @@ Hi,I'm Quintin,a high school student from China.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=QuintinZong)
 
 ### Tools/Languages I use
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,arduino,bash,cpp,cloudflare,css,debian,docker,figma,gcp,git,github,go,html,idea,java,js,kali,kotlin,linux,md,mysql,nextjs,nginx,nodejs,npm,ps,postgres,powershell,pr,pycharm,py,raspberrypi,redis,ts,ubuntu,vscode,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,arduino,bash,cpp,cloudflare,cmake,css,debian,docker,figma,gcp,git,github,go,html,idea,ai,java,js,kali,kotlin,linux,md,mysql,nextjs,nginx,nodejs,npm,ps,postgres,powershell,pr,pycharm,py,raspberrypi,redis,ts,ubuntu,vscode,windows&theme=light)](https://skillicons.dev)
